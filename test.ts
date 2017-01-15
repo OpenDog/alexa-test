@@ -10,7 +10,7 @@ let exp = express();
 exp.set("port", 3000);
 exp.use(bodyParser.json({type: "application/json"}));
 
-let app = alexasdk.app("test", "test");
+let app = new alexasdk.app("test", "test");
 
 let request = (request, response): void => {
     try {
