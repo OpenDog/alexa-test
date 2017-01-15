@@ -5,7 +5,8 @@ typings/
 **/*.iml
 target/
 coverage/
-index.js.map
+test.js.map
+test.js
 
 # Do not track the generated javascript and map files from typescript
 bin/**/*.js

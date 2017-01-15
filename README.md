@@ -8,7 +8,7 @@ Just run ./test.sh. Wait 5 seconds.
 
 ## Tools
 
-This was tested on node 6.3
+This was tested on node 6.3 with TypeScript.
 
 ## Email
 
