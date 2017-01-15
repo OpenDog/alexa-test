@@ -4,7 +4,7 @@ Test project to test the recursion when the express handler is called.
 
 ## How to run
 
-Just run ./test.sh. Wait 5 seconds. MAke sure you kill the background npm process after test.
+Just run ./test.sh. Wait 5 seconds. Make sure you kill the background npm process after the test.
 
 ## Tools
 
