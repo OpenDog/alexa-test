@@ -1,0 +1,20 @@
+{
+  "name": "alexa-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "typings install && tsc",
+    "start": "node test.js"
+  },
+  "dependencies": {
+    "@types/node": "^7.0.0",
+    "alexa-app": "^2.3.4",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "typescript": "^1.8.10"
+  },
+  "author": "",
+  "license": "ISC"
+}
