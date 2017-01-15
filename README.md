@@ -1,6 +1,6 @@
 # alexa-test
 
-Test project to test the recursion when you the express hadler is called.
+Test project to test the recursion when the express handler is called.
 
 ## How to run
 
